@@ -11,12 +11,12 @@
 <jxapi>
 zaixian={
 @01="http://api.zuilingxian.com/jiexi.php?url="
-@01="http://api.greatchina56.com/?url="
+@01="http://api.baiyug.vip/index.php?url="
 @01="http://api.ivito.cn/?url="
-@01="http://y.mt2t.com/lines?url="
+@01="http://jx.09877as.cn/jx.php/?url="
 @01="http://m.lyjml.cn/svip/?url="};
 qita={
-@01="http://api.zuilingxian.com/jiexi.php?url="
+@01="http://jx.sdjnd09.cn/jx.php/?url="
 @01="http://api.greatchina56.com/?url="
 @01="http://api.ivito.cn/?url="
 @01="http://y.mt2t.com/lines?url="
@@ -29,9 +29,9 @@ qita={
 <text>我正在使用#聚合影视#不用开通VIP会员账号,观看全网VIP视频!省钱利器!!!安卓版软件下载地址：https://tt.jx2345.cn/juhe4.63.apk</text>
 /////////////抢板电影解析接口
 
-<analysis>http://api.zuilingxian.com/jiexi.php?url=</analysis>-----这里是解析接口1
-<analysis2>http://api.greatchina56.com/?url=</analysis2>-----这里是解析接口2
+<analysis>http://jx.sdjnd09.cn/jx.php/?url=</analysis>-----这里是解析接口1
+<analysis2>http://api.baiyug.vip/index.php?url=</analysis2>-----这里是解析接口2
 <analysis3>http://api.ivito.cn/?url=</analysis3>-----这里是解析接口3
-<analysis4>http://y.mt2t.com/lines?url=</analysis4>-----这里是解析接口4
+<analysis4>http://jx.09877as.cn/jx.php/?url=</analysis4>-----这里是解析接口4
 <analysis5>http://m.lyjml.cn/svip/?url=</analysis5>-----这里是解析接口5
-<analysis6>http://vip.1717yun.com/52rctc.php?url=</analysis6>-----这里是解析接口5
+<analysis6>http://jx.dlzyrk001.cn/jx.php/?url=</analysis6>-----这里是解析接口5
